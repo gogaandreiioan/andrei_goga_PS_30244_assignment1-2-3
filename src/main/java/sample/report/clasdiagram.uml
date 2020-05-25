@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="57.125" y="213.0">sample.entity.Consultation</node>
+    <node x="0.0" y="11.0">sample.entity.User</node>
+    <node x="151.0" y="0.0">sample.entity.Patient</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="sample.entity.Consultation" target="sample.entity.Patient">
+      <point x="22.0" y="-70.5" />
+      <point x="167.125" y="188.0" />
+      <point x="192.0" y="188.0" />
+      <point x="-41.0" y="81.5" />
+    </edge>
+    <edge source="sample.entity.Consultation" target="sample.entity.User">
+      <point x="-66.0" y="-70.5" />
+      <point x="79.125" y="188.0" />
+      <point x="32.75" y="188.0" />
+      <point x="-32.75" y="70.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.4000000000000004" x="247.50000000000003" y="219.16666666666666" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Inner Classes</Category>
+    <Category>Fields</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
